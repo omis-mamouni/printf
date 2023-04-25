@@ -42,5 +42,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **mohamed mamouni ** - [omismamouni@gmail.com](https://github.com/omis-mamouni)
+* **mohamed mamouni ** - [omismamouni@gmail.com(https://github.com/omis-mamouni)]
 * **Nassima Lakhal** - [(https://github.com/Nassimalakhal)]
