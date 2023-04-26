@@ -1,3 +1,4 @@
+
 # 0x10. C - printf
 
 ## Description
@@ -6,9 +7,9 @@ _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
 
-* How to use git in a team setting
+* How to use git in a team setting.
 * Applying variadic functions to a big project
-* The complexities of printf
+* The complexities of printf.
 * Managing a lot of files and finding a good workflow
 
 ---
@@ -25,9 +26,9 @@ along with regular characters
 
 ## Examples
 
-* ```_printf("Hello, ALX\n")``` *prints "Hello, ALX", followed by a new line*
-* ```_printf("%s", "Hello")``` *prints "Hello"*
-* ```_printf("This is a number: %d", 98)``` *prints "This is a number: 98"*
+* ```_printf("Hello, ALX\n")``` *prints "Hello, ALX", followed by a new line**
+* ```_printf("%s", "Hello")``` *prints "Hello"**
+* ```_printf("This is a number: %d", 98)``` *prints "This is a number: 98"**
 
 ---
 
